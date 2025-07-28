@@ -2,11 +2,12 @@
 Search for words in a target file with case sensitive and insensitive options, mimicking the grep function. <br>
 This project is from [The rust programming language](https://doc.rust-lang.org/book/title-page.html) and acts as the first project to get a strong handle on the basics of rust.
 
+Notes created during the project can be found in markdown files available in the repo.
 ## Cloning the repo
 `git clone https://github.com/CameronJules/minigrep.git`
 
 ## Running tests
-This project focuses on idomatic rust and test driven development. To run test after cloning the repo copy the following commands into the terminal (macOs).
+This project focuses on idomatic rust and test driven development. To run tests after cloning the repo copy the following commands into the terminal (macOs).
 ```
 cd minigrep
 cargo test
